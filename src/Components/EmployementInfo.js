@@ -22,7 +22,7 @@ export default function EmployementInfo() {
                                         for="floating_filled"
                                         class="absolute left-4 px-1 bg-white text-sm text-gray-500 transition-all duration-300 transform top-1/2 -translate-y-[2.4rem] scale-75 peer-placeholder-shown:top-1/2 peer-placeholder-shown:-translate-y-1/2 peer-placeholder-shown:scale-100 peer-focus:top-1/2 peer-focus:-translate-y-[2.4rem] peer-focus:scale-75 peer-focus:text-blue-600"
                                     >
-                                        Designation
+                                        Company Name
                                     </label>
                                 </div>
 
@@ -55,7 +55,7 @@ export default function EmployementInfo() {
                                         for="floating_filled"
                                         class="absolute left-4 px-1 bg-white text-sm text-gray-500 transition-all duration-300 transform top-1/2 -translate-y-[2.4rem] scale-75 peer-placeholder-shown:top-1/2 peer-placeholder-shown:-translate-y-1/2 peer-placeholder-shown:scale-100 peer-focus:top-1/2 peer-focus:-translate-y-[2.4rem] peer-focus:scale-75 peer-focus:text-blue-600"
                                     >
-                                        Designation
+                                        Years Of Experience
                                     </label>
                                 </div>
 
@@ -72,7 +72,7 @@ export default function EmployementInfo() {
                                         for="floating_filled"
                                         class="absolute left-4 px-1 bg-white text-sm text-gray-500 transition-all duration-300 transform top-1/2 -translate-y-[2.4rem] scale-75 peer-placeholder-shown:top-1/2 peer-placeholder-shown:-translate-y-1/2 peer-placeholder-shown:scale-100 peer-focus:top-1/2 peer-focus:-translate-y-[2.4rem] peer-focus:scale-75 peer-focus:text-blue-600"
                                     >
-                                        Designation
+                                        Location
                                     </label>
                                 </div>
 
@@ -95,7 +95,7 @@ export default function EmployementInfo() {
                                     <input
                                         type="date"
                                         id="date"
-                                        class="h-14 w-full px-4 py-2 peer focus:ring-2 rounded-lg text-sm text-gray-900 bg-gray-50 border-2 border-b-2 border-gray-300 appearance-none dark:text-black dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-blue-500 focus:border-blue-600"
+                                        class="h-14 w-full px-4 py-2 peer focus:ring-2 rounded-lg text-sm text-gray-900 bg-gray-50 border-2   border-b-2  border-gray-300 appearance-none dark:text-black dark:border-gray-300 dark:focus:border-blue-500 focus:outline-none focus:ring-blue-500 focus:border-blue-600"
                                         placeholder=" "
                                     />
                                     <label
