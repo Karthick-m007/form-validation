@@ -4,8 +4,9 @@ import PersonalInfo from './Components/PersonalInfo';
 
 function App() {
   return (
-    <div className="App">
-      <EmployementInfo/>
+    <div>
+      <PersonalInfo/> 
+      {/* <EmployementInfo/> */}
     </div>
   );
 }

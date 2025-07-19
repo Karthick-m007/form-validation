@@ -161,10 +161,10 @@ export default function PersonalInfo() {
             <section className="vh-100">
                 <div className="container py-5 h-100">
                     <div className="row justify-center items-center h-100">
-                        <div className="col-12 lg:w-11/12 xl:w-7/12">
+                            <div className=" col-6 lg:w-10/12 xl:w-8/12 ">
                             <div className="card shadow-lg rounded-xl">
                                 <div className="card-body p-4 md:p-5">
-                                    <h3 className="mb-4 pb-2 md:pb-0 md:mb-5 text-2xl font-semibold">
+                                    <h3 className="mb-2 pb-2 md:pb-0 md:mb-5 text-2xl font-semibold">
                                         Personal Details
                                     </h3>
                                     <h4 className="mb-4 pb-2 md:pb-0 md:mb-5 text-2xl font-normal">
